@@ -12,13 +12,13 @@ This is the weighted MSE formula:
 
 ![MSE_weighted](https://github.com/timtimer11/Weighted-MSE-for-Decision-Trees/blob/main/MSE_weighted.png)
 
-left, right - the values of the nodes on the left and right after the tree split.
+*left, right* - the values of the nodes on the left and right after the tree split.
 
-N - number of data points in the split
+*N* - number of data points in the split
 
-y - real/target value
+*y* - real/target value
 
-y' - predicted value (mean of the sample in Regression problems)
+*y'* - predicted value (mean of the sample in Regression problems)
 
 ## Acknowledgement:
 Special thanks to karpov.courses for the formulas.
