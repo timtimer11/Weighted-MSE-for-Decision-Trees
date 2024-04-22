@@ -14,11 +14,11 @@ This is the weighted MSE formula:
 
 *left, right* - the values of the nodes on the left and right after the tree split.
 
-*N* - number of data points in the split
+*N* - number of data points in the split.
 
-*y* - real/target value
+*y* - the actual target value.
 
-*y'* - predicted value (mean of the sample in Regression problems)
+*y'* - predicted value (mean of the sample in Regression problems).
 
 ## Acknowledgement:
 Special thanks to karpov.courses for the formulas.
